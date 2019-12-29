@@ -1,0 +1,17 @@
+.PostingPaper{
+  padding: 3rem;
+  margin: 1rem;
+}
+
+.PostingForm{
+  display: flex;
+  flex-direction: column;
+}
+
+body{
+  background-color: rgb(192, 236, 253);
+}
+
+.card {
+  margin-bottom: 2rem;
+}
